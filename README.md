@@ -21,14 +21,14 @@
 
 ## 👥 모델
 
-### 1️⃣ 로지스틱 회귀 (Logistic Regression)
+### 1. 로지스틱 회귀 (Logistic Regression)
 - L1 정규화를 활용한 변수 선택 및 GridSearchCV로 하이퍼파라미터 튜닝
 - 성능:
   - 정확도: 0.6342  
   - F1 점수: 0.6707  
   - AUC: 0.6750  
 
-### 4️⃣ 랜덤 포레스트 (Random Forest)
+### 2. 랜덤 포레스트 (Random Forest)
 - GridSearch + RandomizedSearchCV 적용
 - 최고 성능:
   - 정확도: 0.6606  
